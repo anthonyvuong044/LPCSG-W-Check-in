@@ -9,7 +9,7 @@ A single-page check-in screen for Las Positas College Student Government food co
 
 ## Use it
 
-Download `food-checkin.html` and double-click it to open it in Chrome or Edge. It works offline; the font and logo are built in.
+Open the live site, or download `index.html` and double-click it to open it in Chrome or Edge. It works offline; the font and logo are built in.
 Press F11 for full screen, and make sure Num Lock is on for the keypad.
 
 Check-ins are saved in that browser on that computer. Export the CSV at the end of each event, and Reset before the next one.
